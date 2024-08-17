@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Vision Transformer Project
 
 ## Overview
@@ -28,7 +28,7 @@ This project implements a Vision Transformer model for image classification usin
 1. Train the Model:
 
 - You can start the training process by running the train.py script. Adjust parameters such as batch size and learning rate as needed.
-    - `python train.py --batch_size 32 --epochs 10 --learning_rate 0.001`
+    - `python train.py --batch_size 128 --epochs 20 --learning_rate 0.001`
 
 - To execute the main script, which includes data loading, training, and evaluation, use:
     - `python main.py`
@@ -44,9 +44,3 @@ This project implements a Vision Transformer model for image classification usin
 - Batch Size: Configurable in the data_loaders.py script.
 
 
-## Example
-To train the model with specific parameters, you can use:
-- `python train.py --batch_size 32 --epochs 10 --learning_rate 0.001`
-=======
-# ViT
->>>>>>> origin/main
