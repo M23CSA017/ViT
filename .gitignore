@@ -1,0 +1,6 @@
+# Ignore data files
+data/
+__pycache__/
+first_*
+run.sh
+
