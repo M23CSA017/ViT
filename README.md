@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vision Transformer Project
 
 ## Overview
@@ -46,3 +47,6 @@ This project implements a Vision Transformer model for image classification usin
 ## Example
 To train the model with specific parameters, you can use:
 - `python train.py --batch_size 32 --epochs 10 --learning_rate 0.001`
+=======
+# ViT
+>>>>>>> origin/main
